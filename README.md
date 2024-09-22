@@ -1,4 +1,4 @@
-# Blum-Clicker:
+
 ## En: 
 ### How to Use
 1. Click on the green button (code).
